@@ -1,0 +1,79 @@
+===== TEST EXECUTION STARTED =====
+CATEGORY LISTED:BOOKS
+COMPUTERS
+Desktops
+Notebooks
+Accessories
+ELECTRONICS
+APPAREL & SHOES
+DIGITAL DOWNLOADS
+JEWELRY
+GIFT CARDS
+SELECTED PRODUCT :APPAREL & SHOES
+product count in selected category:8
+-50's Rockabilly Polka Dot Top JR Plus Size
+11.00
+-Blue and green Sneaker
+11.00
+-Blue Jeans
+1.00
+-Casual Golf Belt
+1.00
+-Custom T-Shirt
+15.00
+-Denim Short with Rhinestones
+10.00
+-Genuine Leather Handbag with Cell Phone Holder & Many Pockets
+35.00
+-Green and blue Sneaker
+17.56
+------------------------------------------
+Name: Blue and green Sneaker
+Price: 11.00
+URL: https://demowebshop.tricentis.com/blue-and-green-sneaker
+ADD TO CART SUCCESSFULLY -----→ Blue and green Sneaker
+------------------------------------------
+Name: Blue Jeans
+Price: 1.00
+URL: https://demowebshop.tricentis.com/blue-jeans
+ADD TO CART SUCCESSFULLY -----→ Blue Jeans
+Error message appears:Email is required.
+=====================================================
+===== TEST EXECUTION STARTED =====
+CATEGORY LISTED:BOOKS
+COMPUTERS
+ELECTRONICS
+APPAREL & SHOES
+DIGITAL DOWNLOADS
+JEWELRY
+GIFT CARDS
+SELECTED PRODUCT :APPAREL & SHOES
+product count in selected category:8
+-50's Rockabilly Polka Dot Top JR Plus Size
+11.00
+-Blue and green Sneaker
+11.00
+-Blue Jeans
+1.00
+-Casual Golf Belt
+1.00
+-Custom T-Shirt
+15.00
+-Denim Short with Rhinestones
+10.00
+-Genuine Leather Handbag with Cell Phone Holder & Many Pockets
+35.00
+-Green and blue Sneaker
+17.56
+------------------------------------------
+Name: Custom T-Shirt
+Price: 15.00
+URL: https://demowebshop.tricentis.com/custom-t-shirt
+OUT OF STOCK -----→ Custom T-Shirt
+------------------------------------------
+Name: Blue Jeans
+Price: 1.00
+URL: https://demowebshop.tricentis.com/blue-jeans
+ADD TO CART SUCCESSFULLY -----→ Blue Jeans
+Error message appears:Email is required.
+=====================================================
