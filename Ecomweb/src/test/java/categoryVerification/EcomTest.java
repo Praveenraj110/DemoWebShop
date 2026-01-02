@@ -185,8 +185,9 @@ public class EcomTest extends Base_test{
 					
             	}
             	
-            	 String ExpectedTotal=driver.findElement(By.className("product-price")).getText();
-         	     double displayedTotal = Double.parseDouble(ExpectedTotal);
+            	WebElement price =wait.until(ExpectedConditions.visibilityOfElementLocated( By.className("product-price"))); 
+            	String ExpectedTotal = price.getText();
+            	double displayedTotal = Double.parseDouble(ExpectedTotal);
          	     ast.assertEquals(displayedTotal, calculatedTotal, "❌ TOTAL PRICE mismatch!");
          	   
             	 driver.findElement(By.id("termsofservice")).click();

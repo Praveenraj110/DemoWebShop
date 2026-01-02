@@ -3,7 +3,6 @@ package Utilimp;
 import java.time.Duration;
 import java.util.Random;
 
-import org.apache.commons.logging.Log;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.interactions.Actions;

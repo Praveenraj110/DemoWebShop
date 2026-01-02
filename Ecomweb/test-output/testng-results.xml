@@ -68,40 +68,40 @@ GIFT CARDS]]>
       <![CDATA[OUT OF STOCK ------→ Custom T-Shirt]]>
     </line>
     <line>
-      <![CDATA[Name: Blue Jeans]]>
+      <![CDATA[Name: Blue and green Sneaker]]>
     </line>
     <line>
-      <![CDATA[Price: 1.00]]>
+      <![CDATA[Price: 11.00]]>
     </line>
     <line>
-      <![CDATA[URL: https://demowebshop.tricentis.com/blue-jeans]]>
+      <![CDATA[URL: https://demowebshop.tricentis.com/blue-and-green-sneaker]]>
     </line>
     <line>
       <![CDATA[--------------------------]]>
     </line>
     <line>
-      <![CDATA[ADD TO CART SUCCESSFULLY -----→ Blue Jeans]]>
+      <![CDATA[ADD TO CART SUCCESSFULLY -----→ Blue and green Sneaker]]>
     </line>
     <line>
       <![CDATA[============== SUMMARY ==============]]>
     </line>
     <line>
-      <![CDATA[ADD TO CART SUCCESSFULLY → 1[Blue Jeans]]]>
+      <![CDATA[ADD TO CART SUCCESSFULLY → 1[Blue and green Sneaker]]]>
     </line>
     <line>
       <![CDATA[FAILED TO ADD CART  → 1[Custom T-Shirt]]]>
     </line>
   </reporter-output>
-  <suite started-at="2025-12-22T10:53:01 IST" name="Default suite" finished-at="2025-12-22T10:54:08 IST" duration-ms="66762">
+  <suite started-at="2025-12-22T15:36:14 IST" name="Default suite" finished-at="2025-12-22T15:37:01 IST" duration-ms="46221">
     <groups>
     </groups>
-    <test started-at="2025-12-22T10:53:01 IST" name="Default test" finished-at="2025-12-22T10:54:08 IST" duration-ms="66762">
+    <test started-at="2025-12-22T15:36:14 IST" name="Default test" finished-at="2025-12-22T15:37:01 IST" duration-ms="46221">
       <class name="categoryVerification.EcomTest">
-        <test-method is-config="true" signature="launch()[pri:0, instance:categoryVerification.EcomTest@6f03482]" started-at="2025-12-22T10:53:01 IST" name="launch" finished-at="2025-12-22T10:53:32 IST" duration-ms="30697" status="PASS">
+        <test-method is-config="true" signature="launch()[pri:0, instance:categoryVerification.EcomTest@3eb738bb]" started-at="2025-12-22T15:36:14 IST" name="launch" finished-at="2025-12-22T15:36:28 IST" duration-ms="13415" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launch -->
-        <test-method signature="CategoryVerification(java.util.Map)[pri:0, instance:categoryVerification.EcomTest@6f03482]" started-at="2025-12-22T10:53:32 IST" name="CategoryVerification" data-provider="LoginTestdata" finished-at="2025-12-22T10:54:07 IST" duration-ms="35156" status="FAIL">
+        <test-method signature="CategoryVerification(java.util.Map)[pri:0, instance:categoryVerification.EcomTest@3eb738bb]" started-at="2025-12-22T15:36:28 IST" name="CategoryVerification" data-provider="LoginTestdata" finished-at="2025-12-22T15:37:00 IST" duration-ms="31943" status="FAIL">
           <params>
             <param index="0">
               <value>
@@ -217,32 +217,32 @@ GIFT CARDS]]>
               <![CDATA[OUT OF STOCK ------→ Custom T-Shirt]]>
             </line>
             <line>
-              <![CDATA[Name: Blue Jeans]]>
+              <![CDATA[Name: Blue and green Sneaker]]>
             </line>
             <line>
-              <![CDATA[Price: 1.00]]>
+              <![CDATA[Price: 11.00]]>
             </line>
             <line>
-              <![CDATA[URL: https://demowebshop.tricentis.com/blue-jeans]]>
+              <![CDATA[URL: https://demowebshop.tricentis.com/blue-and-green-sneaker]]>
             </line>
             <line>
               <![CDATA[--------------------------]]>
             </line>
             <line>
-              <![CDATA[ADD TO CART SUCCESSFULLY -----→ Blue Jeans]]>
+              <![CDATA[ADD TO CART SUCCESSFULLY -----→ Blue and green Sneaker]]>
             </line>
             <line>
               <![CDATA[============== SUMMARY ==============]]>
             </line>
             <line>
-              <![CDATA[ADD TO CART SUCCESSFULLY → 1[Blue Jeans]]]>
+              <![CDATA[ADD TO CART SUCCESSFULLY → 1[Blue and green Sneaker]]]>
             </line>
             <line>
               <![CDATA[FAILED TO ADD CART  → 1[Custom T-Shirt]]]>
             </line>
           </reporter-output>
         </test-method> <!-- CategoryVerification -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:categoryVerification.EcomTest@6f03482]" started-at="2025-12-22T10:54:08 IST" name="closeBrowser" finished-at="2025-12-22T10:54:08 IST" duration-ms="375" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:categoryVerification.EcomTest@3eb738bb]" started-at="2025-12-22T15:37:00 IST" name="closeBrowser" finished-at="2025-12-22T15:37:01 IST" duration-ms="358" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
